@@ -1,4 +1,62 @@
+# Hi there 👋 I'm Manish Kumar
 
+### 🚀 Data Analyst | Business Analyst | Aspiring Data Scientist
+
+Passionate about turning raw data into meaningful insights and building data-driven solutions that solve real business problems.
+
+---
+
+## 💫 About Me
+
+- 🔭 Currently working as an Intern at Syskriti Pvt. Ltd
+- 🌱 Learning Data Analytics, Business Analytics & SQL
+- 📊 Interested in Power BI, Python, PostgreSQL, Excel & Machine Learning
+- 👯 Looking to collaborate on Data Analytics Projects
+- 💬 Ask me about SQL, Excel, Power BI, Python & Data Visualization
+- ⚡ Fun Fact: I love technology, and technology loves me back 😄
+
+---
+
+## 🛠️ Tech Stack
+
+### 📌 Languages & Databases
+- Python
+- SQL
+- PostgreSQL
+- MySQL
+
+### 📌 Data Analytics Tools
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+
+### 📌 Other Tools
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📈 Current Goals
+
+- Building real-world Data Analytics projects
+- Improving problem-solving skills with SQL
+- Learning advanced Power BI dashboards
+- Exploring Machine Learning concepts
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: manishkumarg7394@gmail.com
+- 💼 LinkedIn: Add Your LinkedIn Link Here
+- 🌐 Portfolio: Add Portfolio Link Here
+
+---
+
+⭐ “Data is the new oil, but insights are the real fuel.”
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-kumar-8392863b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishkumarg7394@gmail.com) 
 
